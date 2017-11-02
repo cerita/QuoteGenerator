@@ -3,26 +3,33 @@ body {
   height: 100%;
   width: 100%;
   background-color: #DC3D24;
-  color: #fff; }
+  color: #fff;
+}
 
 body {
-  font-family: 'Coustard', serif; }
+  font-family: 'Coustard', serif;
+  ;
+}
 
 #generator {
   max-width: 85%;
-  margin: 0 auto; }
-  #generator #quote-container {
+  margin: 0 auto;
+  #quote-container {
     text-shadow: 2px 0 5px #008F87;
     width: 100%;
     margin: 0 auto;
     padding: 10% 0;
-    height: 350px; }
-  #generator #quote-content {
+    height: 350px;
+  }
+  #quote-content {
     font-size: 2.2em;
-    letter-spacing: .15em; }
-  #generator #quote-author {
+    letter-spacing: .15em;
+  }
+  #quote-author {
     text-align: right;
-    font-size: 1.5em; }
+    font-size: 1.5em;
+  }
+}
 
 #quote-button {
   background-color: #008F87;
@@ -34,6 +41,5 @@ body {
   /* setting the width */
   margin: 0 auto;
   font-size: 1em;
-  display: block; }
-
-/*# sourceMappingURL=style.css.map */
+  display: block;
+}
